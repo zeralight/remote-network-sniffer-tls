@@ -1,0 +1,85 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            c9:d2:45:4e:e4:34:65:7d:e3:7d:ec:82:57:42:31:01
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=network-capture-ca
+        Validity
+            Not Before: Nov  3 10:55:47 2018 GMT
+            Not After : Oct 18 10:55:47 2021 GMT
+        Subject: CN=networkcapture-client1-1
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ac:65:30:a4:ec:bf:92:a7:59:73:4c:1b:aa:fd:
+                    c1:c0:43:42:54:16:f7:7d:0c:a4:4b:5c:65:69:3b:
+                    81:36:1b:b7:4d:47:91:3d:d8:1a:c1:fd:2e:76:66:
+                    7c:c2:e3:ab:55:8c:6e:1b:4b:89:cf:de:ca:5b:eb:
+                    d5:7b:1e:3b:34:05:18:f7:7a:4b:a9:d3:41:a5:19:
+                    52:8f:fd:cd:4c:76:9e:c3:4e:a1:15:83:0b:61:ea:
+                    57:e3:b9:24:36:b2:98:31:4d:6f:32:bb:6a:b7:db:
+                    f7:cd:f3:41:5a:3c:18:ee:1c:47:32:4a:0e:05:20:
+                    0d:45:dd:f5:dd:3c:18:57:fe:b7:97:59:d6:5b:e9:
+                    c4:f7:20:62:b2:39:b8:de:b9:db:2e:97:99:36:73:
+                    a0:47:25:28:43:a6:b1:79:cb:06:bd:c9:d6:7e:e8:
+                    1b:7b:e9:27:42:68:fc:ab:fd:4e:27:b3:f1:6c:6b:
+                    27:bc:9d:10:14:9a:ac:63:a9:f5:15:96:87:16:7e:
+                    9e:a6:cf:ae:91:4d:8e:2f:78:37:09:10:67:bf:8a:
+                    fe:0b:ac:0f:59:89:07:a7:dd:ea:61:72:11:f3:6d:
+                    dc:8d:69:81:4c:fb:59:bb:d7:73:dc:a9:4c:3b:b2:
+                    41:00:67:1b:4b:7a:84:a2:a3:3f:38:49:38:47:61:
+                    d5:09
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                0D:5D:F0:65:96:24:99:13:BF:F6:6A:83:31:BD:EE:99:00:DE:72:59
+            X509v3 Authority Key Identifier: 
+                keyid:10:15:92:56:71:CE:2B:D7:49:11:79:AE:09:D2:26:F5:30:55:95:38
+                DirName:/CN=network-capture-ca
+                serial:CC:16:AB:D1:B7:48:3D:D8
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha256WithRSAEncryption
+         d3:5e:e6:d0:18:50:94:b1:a2:9f:41:65:48:d0:3a:08:79:db:
+         23:c8:8f:ad:01:22:3d:1f:d5:52:30:36:87:c7:d4:46:2e:d8:
+         d3:da:00:af:9a:e2:6a:b5:1e:2d:c4:42:fe:7b:a6:a7:d6:39:
+         12:96:56:0a:db:5f:a5:67:2c:0b:30:95:5d:0c:46:e5:bd:3d:
+         26:eb:15:78:11:a1:8d:70:ae:2b:5c:f4:9f:bc:2c:ea:dc:a3:
+         fe:57:e4:ea:89:9a:07:36:66:57:f4:61:e3:2d:23:20:20:c0:
+         c1:8e:d8:24:ba:2e:29:76:ae:17:6d:34:8b:66:5e:0e:bf:ef:
+         c3:f4:29:4d:c0:37:56:2c:2e:41:33:1e:5b:81:fe:b3:c4:b0:
+         29:1c:c6:78:c4:a1:9f:3f:05:9b:93:cc:10:6d:ba:28:9d:a0:
+         27:d9:d7:80:1d:e0:dd:e4:6e:c4:bc:4b:31:cd:5d:c4:f4:a7:
+         9b:8f:f7:9b:4e:a7:88:db:fc:f7:a6:aa:d5:a8:f8:50:b4:5a:
+         d6:35:83:97:c1:55:df:ea:ee:4d:c8:83:9d:cf:1d:58:5f:92:
+         46:4d:eb:d5:20:3e:26:76:d7:6e:be:dd:d5:2d:87:4d:05:11:
+         fa:c9:fe:6c:b9:35:76:74:a7:7d:98:15:cd:f8:35:50:f6:12:
+         c8:9e:79:7f
+-----BEGIN CERTIFICATE-----
+MIIDajCCAlKgAwIBAgIRAMnSRU7kNGV9433sgldCMQEwDQYJKoZIhvcNAQELBQAw
+HTEbMBkGA1UEAwwSbmV0d29yay1jYXB0dXJlLWNhMB4XDTE4MTEwMzEwNTU0N1oX
+DTIxMTAxODEwNTU0N1owIzEhMB8GA1UEAwwYbmV0d29ya2NhcHR1cmUtY2xpZW50
+MS0xMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArGUwpOy/kqdZc0wb
+qv3BwENCVBb3fQykS1xlaTuBNhu3TUeRPdgawf0udmZ8wuOrVYxuG0uJz97KW+vV
+ex47NAUY93pLqdNBpRlSj/3NTHaew06hFYMLYepX47kkNrKYMU1vMrtqt9v3zfNB
+WjwY7hxHMkoOBSANRd313TwYV/63l1nWW+nE9yBisjm43rnbLpeZNnOgRyUoQ6ax
+ecsGvcnWfugbe+knQmj8q/1OJ7PxbGsnvJ0QFJqsY6n1FZaHFn6eps+ukU2OL3g3
+CRBnv4r+C6wPWYkHp93qYXIR823cjWmBTPtZu9dz3KlMO7JBAGcbS3qEoqM/OEk4
+R2HVCQIDAQABo4GeMIGbMAkGA1UdEwQCMAAwHQYDVR0OBBYEFA1d8GWWJJkTv/Zq
+gzG97pkA3nJZME0GA1UdIwRGMESAFBAVklZxzivXSRF5rgnSJvUwVZU4oSGkHzAd
+MRswGQYDVQQDDBJuZXR3b3JrLWNhcHR1cmUtY2GCCQDMFqvRt0g92DATBgNVHSUE
+DDAKBggrBgEFBQcDAjALBgNVHQ8EBAMCB4AwDQYJKoZIhvcNAQELBQADggEBANNe
+5tAYUJSxop9BZUjQOgh52yPIj60BIj0f1VIwNofH1EYu2NPaAK+a4mq1Hi3EQv57
+pqfWORKWVgrbX6VnLAswlV0MRuW9PSbrFXgRoY1writc9J+8LOrco/5X5OqJmgc2
+Zlf0YeMtIyAgwMGO2CS6Lil2rhdtNItmXg6/78P0KU3AN1YsLkEzHluB/rPEsCkc
+xnjEoZ8/BZuTzBBtuiidoCfZ14Ad4N3kbsS8SzHNXcT0p5uP95tOp4jb/PemqtWo
++FC0WtY1g5fBVd/q7k3Ig53PHVhfkkZN69UgPiZ2126+3dUth00FEfrJ/my5NXZ0
+p32YFc34NVD2EsieeX8=
+-----END CERTIFICATE-----

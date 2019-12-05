@@ -1,0 +1,88 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            ea:6f:f9:c0:e4:e5:63:94:e2:1d:f6:6f:81:63:a1:79
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=network-capture-ca
+        Validity
+            Not Before: Nov  3 10:56:02 2018 GMT
+            Not After : Oct 18 10:56:02 2021 GMT
+        Subject: CN=networkcapture-server-1
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:f8:0b:4d:1d:d2:fd:06:f2:33:06:aa:74:5d:35:
+                    2a:34:15:dc:36:8a:30:3a:21:03:02:d4:0c:f6:3f:
+                    44:de:31:7d:39:45:67:e3:03:03:01:c8:b4:bf:b4:
+                    c5:4c:8c:46:94:e5:86:28:ac:9e:64:aa:91:be:4c:
+                    0c:6b:2f:33:92:8b:39:8f:b8:a0:44:a9:ba:78:1d:
+                    19:94:b6:66:42:db:1e:c9:0f:10:8d:0b:ed:f3:38:
+                    27:c6:f7:15:8f:1d:44:b4:ae:6d:0a:cc:0f:5c:8f:
+                    f4:85:bf:19:ba:65:b8:43:08:8d:07:03:ec:46:69:
+                    05:1f:2e:e6:5c:70:82:75:6b:b5:ee:7a:56:15:42:
+                    fc:6c:1b:e7:42:fb:f4:c7:c4:48:2b:f6:5c:db:45:
+                    d9:74:37:a3:49:69:7d:37:95:5b:53:ed:2a:23:08:
+                    e5:de:d8:c4:9c:67:8b:06:d7:c7:4f:5b:c2:19:d8:
+                    42:5c:ba:b1:f7:9a:44:6a:c8:c2:3b:f2:34:7a:3c:
+                    0f:7d:33:75:cc:fe:0b:7c:10:9e:c3:69:5d:bc:8e:
+                    77:0e:b5:26:c7:df:68:69:0e:20:d2:f0:d5:8e:82:
+                    c5:00:00:7b:8b:4a:dc:9f:d2:21:ee:ba:01:cd:9b:
+                    a9:9b:32:e3:c8:af:76:1c:ee:d3:dc:76:30:21:90:
+                    a8:bd
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                25:8D:94:FA:06:BD:98:1B:6F:2A:0B:66:2A:B4:DE:91:3D:81:CE:CE
+            X509v3 Authority Key Identifier: 
+                keyid:10:15:92:56:71:CE:2B:D7:49:11:79:AE:09:D2:26:F5:30:55:95:38
+                DirName:/CN=network-capture-ca
+                serial:CC:16:AB:D1:B7:48:3D:D8
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:networkcapture-server-1
+    Signature Algorithm: sha256WithRSAEncryption
+         bc:1d:62:c6:ea:2c:de:6c:44:75:93:70:83:e1:23:72:f5:22:
+         f8:45:75:45:e8:40:c4:b4:50:3e:16:07:72:ba:29:b5:0c:b0:
+         b9:f6:73:3b:d0:c6:74:92:db:ef:b1:12:b4:6a:c0:c6:76:32:
+         60:5e:d9:cb:8f:7b:91:3c:f2:0a:e0:c5:fa:fc:1b:81:5a:9f:
+         1f:0c:0d:07:38:4a:51:f9:b7:e1:b7:c9:7c:61:d8:d7:81:37:
+         e8:b4:3f:fd:ca:4e:13:7c:81:e2:a4:23:21:f2:09:74:5a:b8:
+         77:9b:10:c6:0a:7f:30:df:5a:c0:ed:5d:c5:65:27:2d:ed:91:
+         ca:aa:7a:b2:c1:06:c9:e2:be:ff:34:92:2d:07:3e:32:08:7e:
+         c8:12:f0:c2:82:fa:dc:d6:ea:0c:98:dd:5c:8e:f8:de:d4:85:
+         08:f8:60:fa:82:b1:e8:0b:3c:b7:fb:da:af:ca:9c:4e:0c:6e:
+         4f:7d:73:19:0a:e6:4a:d4:90:3f:3e:49:cd:a9:19:fd:f3:a1:
+         b2:48:e2:83:ab:e3:0d:5a:7f:26:be:3b:86:9b:30:3a:08:21:
+         17:a8:f2:f5:59:6b:c8:37:49:df:fc:57:e6:9e:fc:ba:a8:30:
+         a4:3a:1a:75:b9:2f:fc:53:6d:84:68:2a:43:0c:e9:1c:75:0c:
+         70:83:b5:69
+-----BEGIN CERTIFICATE-----
+MIIDjTCCAnWgAwIBAgIRAOpv+cDk5WOU4h32b4FjoXkwDQYJKoZIhvcNAQELBQAw
+HTEbMBkGA1UEAwwSbmV0d29yay1jYXB0dXJlLWNhMB4XDTE4MTEwMzEwNTYwMloX
+DTIxMTAxODEwNTYwMlowIjEgMB4GA1UEAwwXbmV0d29ya2NhcHR1cmUtc2VydmVy
+LTEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQD4C00d0v0G8jMGqnRd
+NSo0Fdw2ijA6IQMC1Az2P0TeMX05RWfjAwMByLS/tMVMjEaU5YYorJ5kqpG+TAxr
+LzOSizmPuKBEqbp4HRmUtmZC2x7JDxCNC+3zOCfG9xWPHUS0rm0KzA9cj/SFvxm6
+ZbhDCI0HA+xGaQUfLuZccIJ1a7XuelYVQvxsG+dC+/THxEgr9lzbRdl0N6NJaX03
+lVtT7SojCOXe2MScZ4sG18dPW8IZ2EJcurH3mkRqyMI78jR6PA99M3XM/gt8EJ7D
+aV28jncOtSbH32hpDiDS8NWOgsUAAHuLStyf0iHuugHNm6mbMuPIr3Yc7tPcdjAh
+kKi9AgMBAAGjgcIwgb8wCQYDVR0TBAIwADAdBgNVHQ4EFgQUJY2U+ga9mBtvKgtm
+KrTekT2Bzs4wTQYDVR0jBEYwRIAUEBWSVnHOK9dJEXmuCdIm9TBVlTihIaQfMB0x
+GzAZBgNVBAMMEm5ldHdvcmstY2FwdHVyZS1jYYIJAMwWq9G3SD3YMBMGA1UdJQQM
+MAoGCCsGAQUFBwMBMAsGA1UdDwQEAwIFoDAiBgNVHREEGzAZghduZXR3b3JrY2Fw
+dHVyZS1zZXJ2ZXItMTANBgkqhkiG9w0BAQsFAAOCAQEAvB1ixuos3mxEdZNwg+Ej
+cvUi+EV1RehAxLRQPhYHcroptQywufZzO9DGdJLb77EStGrAxnYyYF7Zy497kTzy
+CuDF+vwbgVqfHwwNBzhKUfm34bfJfGHY14E36LQ//cpOE3yB4qQjIfIJdFq4d5sQ
+xgp/MN9awO1dxWUnLe2Ryqp6ssEGyeK+/zSSLQc+Mgh+yBLwwoL63NbqDJjdXI74
+3tSFCPhg+oKx6As8t/var8qcTgxuT31zGQrmStSQPz5JzakZ/fOhskjig6vjDVp/
+Jr47hpswOgghF6jy9VlryDdJ3/xX5p78uqgwpDoadbkv/FNthGgqQwzpHHUMcIO1
+aQ==
+-----END CERTIFICATE-----
